@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AmanyadavFD/task-manager-app.io.git",
+  "homepage": "https://amanyadavfd.github.io/task-manager-app.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
